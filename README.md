@@ -15,27 +15,35 @@
 ### About Me
 
 - D4 Business Information Systems student at **Politeknik Negeri Malang (POLINEMA)**
-- Interested in **web development, software engineering, and business technology**
-- Exploring different technologies through academic and personal projects
-- Familiar with development tools, databases, and modern development workflows
-- Currently focused on improving my skills through hands-on projects
+- Focused on **web development, software engineering, and business technology**
+- Building web applications through academic and personal projects
+- Interested in developing practical solutions that connect technology and business needs
+- Continuously improving my skills through hands-on development
 
 ---
 
 ### Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### Web Development
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### Database & Tools
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### Other Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
@@ -78,6 +86,20 @@ A static informational website focused on occupational health and safety with in
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=adzikraaa&theme=transparent&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adzikraaa/adzikraaa/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adzikraaa/adzikraaa/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/adzikraaa/adzikraaa/output/github-snake.svg" width="90%" alt="GitHub contribution activity">
+</picture>
 
 </div>
 
